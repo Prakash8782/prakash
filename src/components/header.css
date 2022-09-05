@@ -1,0 +1,28 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+.logo{
+    font-size: 30px;
+    color: orange;
+}
+.nav-bar{
+    padding: 20px;
+    margin-top: 32px;
+    font-size: 25px;
+    align-items: center;
+}
+.nav{
+    color: black;
+    padding: 25px;
+}
